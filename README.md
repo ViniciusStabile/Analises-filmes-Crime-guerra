@@ -139,6 +139,10 @@ Na camada **Refined**, os dados foram organizados em modelo dimensional:
 ![Top 10 Filmes ROI - Gráfico](./imagens/top_10_1.png)  
 ![Top 10 Filmes ROI - Tabela](./imagens/top_10_2.png)
 
+Clássicos como *The Godfather* e *Pulp Fiction* multiplicaram seus investimentos mais de 25 vezes.  
+*Halloween* surpreendeu com ROI altíssimo apesar de nota IMDb baixa.  
+*Joker* provou que altos investimentos também podem gerar grande retorno, ultrapassando US$ 1 bilhão de receita.
+
 ---
 
 ### 2️ Relação entre Nota, Popularidade e ROI

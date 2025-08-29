@@ -62,7 +62,19 @@ A solução integra fontes **on-premise** (arquivos CSV) e **APIs externas** (TM
 ###  **Step III - AWS Platform (ETL)**  
 - **AWS Lambda**: orquestra o envio e chamadas para APIs.  
 - **AWS Glue (PySpark)**:  
-  - Criação da **Trusted Layer** com dados limpos.  
+  - Criação da **Trusted Layer** com dados limpos. 
+
+![Arquitetura 3](./imagens/Desafio-FilmesSéries-Parte3.png)
+
+
+###  **Step IV - AWS Platform (ETL)** 
   - Criação da **Refined Layer** com modelo dimensional.
 
-![Arquitetura 3](./imagens/Desafio-FilmesSeries-Parte3.png)
+![Arquitetura 4](./imagens/Desafio-FilmesSéries-Parte4.png)
+
+###  **Step V - Analytics & Dashboards**  
+- **AWS Glue Data Catalog**: catálogo de tabelas.  
+- **Athena**: consultas SQL sobre o Data Lake.  
+- **QuickSight**: dashboards para análise de ROI, notas, popularidade e tendências.
+
+![Arquitetura 5](./imagens/Desafio-FilmesSéries-Parte5.png)

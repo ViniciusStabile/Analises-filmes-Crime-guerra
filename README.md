@@ -168,15 +168,27 @@ Diversos títulos caros fracassaram, enquanto filmes modestos alcançaram grande
 ### 4️ Evolução ao Longo dos Anos
 ![Evolução Orçamento e Receita](./imagens/investimento_anos.png)
 
+Tanto o orçamento quanto a receita cresceram ao longo das décadas.  
+Porém, os custos sobem em ritmo maior que as receitas, reduzindo margens de lucro — especialmente nos anos 2010.
+
 ---
 
 ### 5️ ROI por Década
 ![ROI por Década](./imagens/decada.png)
 
+O ROI médio caiu fortemente ao longo das décadas.  
+- 1970 → ROI médio acima de 6.  
+- 2020 → ROI abaixo de 1.  
+
+Isso mostra que o aumento dos custos superou o crescimento dos lucros.
+
 ---
 
 ### 6️ Sazonalidade dos Lançamentos
 ![Sazonalidade - ROI por Mês](./imagens/mes.png)
+
+Meses de **maio, julho, novembro e dezembro** concentram ROI mais alto (férias e feriados).  
+Meses como **janeiro, abril e agosto** têm desempenho abaixo da média.
 
 ---
 

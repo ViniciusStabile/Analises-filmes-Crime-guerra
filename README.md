@@ -135,7 +135,7 @@ Na camada **Refined**, os dados foram organizados em modelo dimensional:
 
 ---
 
-### 1️ ROI dos Filmes
+### 1️ - ROI dos Filmes
 ![Top 10 Filmes ROI - Gráfico](./imagens/top_10_1.png)  
 ![Top 10 Filmes ROI - Tabela](./imagens/top_10_2.png)
 
@@ -145,7 +145,7 @@ Clássicos como *The Godfather* e *Pulp Fiction* multiplicaram seus investimento
 
 ---
 
-### 2️ Relação entre Nota, Popularidade e ROI
+### 2️ - Relação entre Nota, Popularidade e ROI
 ![Nota x Popularidade x ROI](./imagens/popularidade_nota_roi.png)
 
 O sucesso não depende de um único fator.  
@@ -157,7 +157,7 @@ Décadas de 70 e 80 aparecem como **era de ouro do ROI**, com produções enxuta
 
 ---
 
-### 3️ Orçamento vs Receita
+### 3️ - Orçamento vs Receita
 ![Orçamento vs Receita](./imagens/orcamento_receita.png)
 
 Filmes com altos orçamentos tendem a gerar mais receita, mas não há garantia.  
@@ -165,7 +165,7 @@ Diversos títulos caros fracassaram, enquanto filmes modestos alcançaram grande
 
 ---
 
-### 4️ Evolução ao Longo dos Anos
+### 4️ - Evolução ao Longo dos Anos
 ![Evolução Orçamento e Receita](./imagens/investimento_anos.png)
 
 Tanto o orçamento quanto a receita cresceram ao longo das décadas.  
@@ -173,7 +173,7 @@ Porém, os custos sobem em ritmo maior que as receitas, reduzindo margens de luc
 
 ---
 
-### 5️ ROI por Década
+### 5️ - ROI por Década
 ![ROI por Década](./imagens/decada.png)
 
 O ROI médio caiu fortemente ao longo das décadas.  
@@ -184,7 +184,7 @@ Isso mostra que o aumento dos custos superou o crescimento dos lucros.
 
 ---
 
-### 6️ Sazonalidade dos Lançamentos
+### 6️ - Sazonalidade dos Lançamentos
 ![Sazonalidade - ROI por Mês](./imagens/mes.png)
 
 Meses de **maio, julho, novembro e dezembro** concentram ROI mais alto (férias e feriados).  
@@ -192,7 +192,7 @@ Meses como **janeiro, abril e agosto** têm desempenho abaixo da média.
 
 ---
 
-### 7️ Artistas de Alto Desempenho
+### 7️ - Artistas de Alto Desempenho
 ![Artistas - Gráfico](./imagens/top_artistas_2.png)  
 ![Artistas - Tabela](./imagens/top_artistas_1.png)
 

@@ -38,3 +38,15 @@ A solução integra fontes **on-premise** (arquivos CSV) e **APIs externas** (TM
   - Athena (consultas SQL sobre dados no S3)  
   - QuickSight (dashboards interativos)  
   - CloudWatch (monitoramento e logs)
+
+
+---
+
+##  Pipeline de Dados  
+
+###  **Step I - On-premise Sources**  
+- Base de **Filmes (164 MB)** e **Séries (74 MB)** em CSV.  
+- Pré-processamento com **Python + Docker**.  
+- Envio dos dados para o **S3 Raw**.  
+
+![Arquitetura 1](./imagens/Desafio-FilmesSeries-Parte1.png) 

@@ -148,10 +148,20 @@ Clássicos como *The Godfather* e *Pulp Fiction* multiplicaram seus investimento
 ### 2️ Relação entre Nota, Popularidade e ROI
 ![Nota x Popularidade x ROI](./imagens/popularidade_nota_roi.png)
 
+O sucesso não depende de um único fator.  
+- *The Godfather* e *Joker* → **bem avaliados, populares e rentáveis**.  
+- *Baywatch* → **popularidade alta, mas prejuízo financeiro**.  
+- *True Romance* → **nota boa, popularidade razoável, mas sem retorno**.  
+
+Décadas de 70 e 80 aparecem como **era de ouro do ROI**, com produções enxutas e eficientes.
+
 ---
 
 ### 3️ Orçamento vs Receita
 ![Orçamento vs Receita](./imagens/orcamento_receita.png)
+
+Filmes com altos orçamentos tendem a gerar mais receita, mas não há garantia.  
+Diversos títulos caros fracassaram, enquanto filmes modestos alcançaram grande rentabilidade.
 
 ---
 

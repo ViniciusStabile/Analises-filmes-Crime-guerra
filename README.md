@@ -7,7 +7,7 @@ A solução integra fontes **on-premise** (arquivos CSV) e **APIs externas** (TM
 
 ---
 
-## 🎯 Objetivos do Projeto  
+##  Objetivos do Projeto  
 - Criar um **pipeline completo** de dados usando boas práticas de Data Lake.  
 - Integrar **dados on-premise (CSV)** com **APIs externas (TMDB)**.  
 - Organizar os dados em **camadas (Raw, Trusted, Refined)**.  

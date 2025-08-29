@@ -115,12 +115,23 @@ Na camada **Refined**, os dados foram organizados em modelo dimensional:
 ![KPIs do Dashboard](./imagens/KPIs.png)
 
 - **Total de filmes:** `829`  
+  A base é composta por 829 filmes, garantindo diversidade e robustez estatística.  
+
 - **Total de artistas:** `1.758`  
+  Representa a diversidade de atores, atrizes e profissionais envolvidos.  
+
 - **Orçamento médio:** `US$ 35,65M`  
+  Valor médio elevado, mas que esconde contrastes entre produções modestas e blockbusters.  
+
 - **Receita média:** `US$ 91,14M`  
+  Mostra que, em média, os filmes arrecadam mais que o triplo do investimento.  
+
 - **ROI médio:** `2,03`  
+  Cada US$ 1 investido gera em média US$ 2,03 de retorno.  
+
 - **Popularidade média:** `5,08`  
-- **Nota IMDb média:** `6,65`  
+
+- **Nota IMDb média:** `6,65`   
 
 ---
 

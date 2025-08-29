@@ -78,3 +78,94 @@ A solução integra fontes **on-premise** (arquivos CSV) e **APIs externas** (TM
 - **QuickSight**: dashboards para análise de ROI, notas, popularidade e tendências.
 
 ![Arquitetura 5](./imagens/Desafio-FilmesSéries-Parte5.png)
+
+---
+
+##  Modelagem Dimensional  
+
+Na camada **Refined**, os dados foram organizados em modelo dimensional:  
+
+- **Fato**: `fato_desempenho_filmes`  
+- **Dimensões**:  
+  - `dim_filme`  
+  - `dim_artista`  
+  - `dim_data` 
+
+![Modelagem](./imagens/modelo_dimensional.png) 
+
+---
+
+##  Análises Realizadas
+
+##  Resultado Final
+![Dashboard Completo](./imagens/Dashboard.jpg)
+
+###  Paleta de Cores
+![Paleta de cores](./imagens/paleta.png)
+
+###  Cabeçalho
+![Cabeçalho - O Que Define o Sucesso no Cinema?](./imagens/cabeçalho.png)
+
+#### **O Que Define o Sucesso no Cinema?**  
+**Uma Análise de ROI, Receita e Popularidade**
+
+---
+
+###  KPIs Principais
+![KPIs do Dashboard](./imagens/KPIs.png)
+
+- **Total de filmes:** `829`  
+- **Total de artistas:** `1.758`  
+- **Orçamento médio:** `US$ 35,65M`  
+- **Receita média:** `US$ 91,14M`  
+- **ROI médio:** `2,03`  
+- **Popularidade média:** `5,08`  
+- **Nota IMDb média:** `6,65`  
+
+---
+
+### 1️ ROI dos Filmes
+![Top 10 Filmes ROI - Gráfico](./imagens/top_10_1.png)  
+![Top 10 Filmes ROI - Tabela](./imagens/top_10_2.png)
+
+---
+
+### 2️ Relação entre Nota, Popularidade e ROI
+![Nota x Popularidade x ROI](./imagens/popularidade_nota_roi.png)
+
+---
+
+### 3️ Orçamento vs Receita
+![Orçamento vs Receita](./imagens/orcamento_receita.png)
+
+---
+
+### 4️ Evolução ao Longo dos Anos
+![Evolução Orçamento e Receita](./imagens/investimento_anos.png)
+
+---
+
+### 5️ ROI por Década
+![ROI por Década](./imagens/decada.png)
+
+---
+
+### 6️ Sazonalidade dos Lançamentos
+![Sazonalidade - ROI por Mês](./imagens/mes.png)
+
+---
+
+### 7️ Artistas de Alto Desempenho
+![Artistas - Gráfico](./imagens/top_artistas_2.png)  
+![Artistas - Tabela](./imagens/top_artistas_1.png)
+
+---
+
+##  Conclusão
+
+- A indústria cinematográfica se tornou **mais cara** e **menos eficiente** financeiramente ao longo do tempo.  
+- Histórias bem construídas e **investimentos enxutos** ainda se provam extremamente lucrativos.  
+- O sucesso é multifatorial: **nota crítica, popularidade, marketing, timing e apelo cultural**.  
+- **Artistas estratégicos** e **datas de lançamento certas** continuam sendo peças-chave para o ROI.  
+
+---

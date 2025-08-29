@@ -50,3 +50,10 @@ A solução integra fontes **on-premise** (arquivos CSV) e **APIs externas** (TM
 - Envio dos dados para o **S3 Raw**.  
 
 ![Arquitetura 1](./imagens/Desafio-FilmesSeries-Parte1.png) 
+
+
+### **Step II - External Sources**  
+- Integração com a **TMDB API** para enriquecimento dos dados.  
+- Coleta de atributos adicionais: popularidade, orçamento, receita, ROI, etc.
+
+![Arquitetura 2](./imagens/Desafio-FilmesSeries-Parte2.png) 

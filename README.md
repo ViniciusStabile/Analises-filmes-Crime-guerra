@@ -57,3 +57,12 @@ A solução integra fontes **on-premise** (arquivos CSV) e **APIs externas** (TM
 - Coleta de atributos adicionais: popularidade, orçamento, receita, ROI, etc.
 
 ![Arquitetura 2](./imagens/Desafio-FilmesSeries-Parte2.png) 
+
+
+###  **Step III - AWS Platform (ETL)**  
+- **AWS Lambda**: orquestra o envio e chamadas para APIs.  
+- **AWS Glue (PySpark)**:  
+  - Criação da **Trusted Layer** com dados limpos.  
+  - Criação da **Refined Layer** com modelo dimensional.
+
+![Arquitetura 3](./imagens/Desafio-FilmesSeries-Parte3.png)

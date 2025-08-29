@@ -196,6 +196,11 @@ Meses como **janeiro, abril e agosto** têm desempenho abaixo da média.
 ![Artistas - Gráfico](./imagens/top_artistas_2.png)  
 ![Artistas - Tabela](./imagens/top_artistas_1.png)
 
+- **Altos ROI:** Tobin Bell, James Caan e Robert Redford.  
+- **Recorrentes e rentáveis:** Al Pacino e Eddie Murphy.  
+- **Mais populares:** Uma Thurman, James Caan e Frances McDormand.  
+
+Esses nomes se destacam tanto pela **rentabilidade** quanto pela **ampla participação no mercado**.  
 ---
 
 ##  Conclusão

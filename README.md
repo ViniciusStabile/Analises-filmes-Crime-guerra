@@ -5,6 +5,8 @@ Este projeto implementa um **pipeline de dados em nuvem** utilizando serviços d
 
 A solução integra fontes **on-premise** (arquivos CSV) e **APIs externas** (TMDB), processa os dados em múltiplas camadas no **S3** (Raw, Trusted e Refined), aplica transformações com **AWS Glue (PySpark)** e disponibiliza insights por meio do **AWS QuickSight**.  
 
+![Arquitetura](./imagens/Desafio-FilmesSeries-Completo.png) 
+
 ---
 
 ##  Objetivos do Projeto  
@@ -14,3 +16,25 @@ A solução integra fontes **on-premise** (arquivos CSV) e **APIs externas** (TM
 - Processar e transformar os dados usando **AWS Glue + PySpark**.  
 - Consultar e analisar os dados com **Athena**.  
 - Disponibilizar insights visuais via **QuickSight**.  
+
+
+---
+
+##  Estrutura do Data Lake  
+
+- **Raw Layer** → Armazena dados brutos, sem transformação.  
+- **Trusted Layer** → Dados limpos e padronizados.  
+- **Refined Layer** → Dados modelados e otimizados para análise.  
+
+---
+
+##  Tecnologias Utilizadas  
+
+- **Linguagens & Ferramentas**: Python, PySpark, Docker  
+- **Cloud AWS**:  
+  - S3 (Raw, Trusted, Refined)  
+  - Lambda (ingestão de dados + integração TMDB API)  
+  - Glue (ETL e modelagem dimensional)  
+  - Athena (consultas SQL sobre dados no S3)  
+  - QuickSight (dashboards interativos)  
+  - CloudWatch (monitoramento e logs)

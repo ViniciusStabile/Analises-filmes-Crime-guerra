@@ -4,6 +4,8 @@
 O objetivo desta etapa é realizar a ingestão de dados provenientes de fontes **on-premise (locais)** para a camada **Raw** de um Data Lake na AWS.  
 Essa fase garante que os arquivos **CSV** armazenados localmente sejam enviados para o bucket **Amazon S3**, seguindo um padrão de organização pré-definido para suportar futuras transformações e análises.  
 
+![Step I - On-premise Sources](../imagens/Desafio-FilmesSeries-Parte1.png)
+
 ---
 
 ##  Arquitetura da Solução  
@@ -13,7 +15,7 @@ Essa fase garante que os arquivos **CSV** armazenados localmente sejam enviados 
    - Autenticação com a AWS via **SSO** utilizando o `boto3`.  
    - Upload dos arquivos para o **S3** com tratamento de erros.  
    - Criação automática da **key** no padrão:  <camada>/<origem>/<formato>/<especificacao>/<ano>/<mes>/<dia>/<arquivo>
-   Exemplo:  Raw/Local/CSV/Vendas/2025/09/02/filmes.csv
+   Exemplo:  Raw/Local/CSV/MOVIES/2025/09/02/movies.csv
 
 4. **AWS S3**: Repositório central de armazenamento dos dados.  
 

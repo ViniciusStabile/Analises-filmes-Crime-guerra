@@ -4,6 +4,8 @@
 O objetivo desta etapa é **enriquecer os dados locais** já ingeridos na camada **Raw** utilizando uma **fonte externa**: a **API do The Movie Database (TMDB)**.  
 Essa integração possibilita buscar informações adicionais sobre os filmes (orçamento, receita, popularidade, avaliação etc.), aumentando a qualidade e o valor analítico dos dados armazenados no Data Lake.  
 
+![Step II](../imagens/Desafio-FilmesSeries-Parte2.png)
+
 ---
 
 ##  Arquitetura da Solução  

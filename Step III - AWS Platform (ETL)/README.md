@@ -8,6 +8,8 @@ Esta etapa:
 - (JSON) adiciona **particionamento por ano/mês/dia** para otimizar consultas.
 - Escreve a saída no **Amazon S3**.
 
+![Step III – AWS Platform (ETL)](../imagens/Desafio-FilmesSéries-Parte3.png)
+
 ---
 
 ##  Visão Geral da Solução

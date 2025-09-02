@@ -4,6 +4,8 @@
 Esta etapa tem como objetivo consolidar e transformar os dados provenientes do **IMDb** e do **TMDB**, aplicando filtros de qualidade, cálculos de métricas e enriquecimento, para gerar um **modelo dimensional** no formato **Parquet** dentro da camada **Refined** no **Amazon S3**.  
 O resultado é um **Data Warehouse em estrela** composto por uma **tabela fato** e **três dimensões** (filme, artista e data), que servirão como base para análises no **Amazon Athena** e visualizações no **Amazon QuickSight**.
 
+![Step IV – AWS Platform (ETL)](../imagens/Desafio-FilmesSéries-Parte4.png)
+
 ---
 
 ##  Fluxo da Solução
